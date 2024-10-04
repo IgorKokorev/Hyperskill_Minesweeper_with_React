@@ -1,0 +1,14 @@
+type: hyperskill
+title: Minesweeper with React
+language: English
+summary: "<p>Minesweeper is\_an\_oldschool game that dates back\_to the earliest mainframe\
+  \ games of the 1960s and 1970s. The player is presented with a\_field\_of cells,\_\
+  some of which\_contain hidden mines. You can open any of the closed cells and find\
+  \ out how many mines are around it, or stumble upon\_a mine right there and lose.\
+  \ Your goal is to open all the empty cells and flag all the cells with\_mines.</p><br/><br/>Learn\
+  \ more at <a href=\"https://hyperskill.org/projects/108?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card\"\
+  >https://hyperskill.org/projects/108</a>"
+programming_language: JavaScript
+content:
+    - Minesweeper with React
+mode: Study

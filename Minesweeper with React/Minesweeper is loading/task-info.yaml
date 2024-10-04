@@ -1,0 +1,30 @@
+type: edu
+custom_name: Minesweeper is loading...
+files:
+    -   name: src/App.css
+        visible: true
+        learner_created: false
+    -   name: src/App.js
+        visible: true
+        learner_created: false
+    -   name: src/index.css
+        visible: true
+        learner_created: false
+    -   name: src/index.js
+        visible: true
+        learner_created: false
+    -   name: src/logo.svg
+        visible: true
+        learner_created: false
+    -   name: test/test.js
+        visible: false
+        learner_created: false
+    -   name: src/bomb.svg
+        visible: true
+        learner_created: true
+feedback_link: https://hyperskill.org/learn/step/9741#comment
+status: Solved
+feedback:
+    message: Congratulations!
+    time: "Fri, 27 Sep 2024 14:44:06 UTC"
+record: 1

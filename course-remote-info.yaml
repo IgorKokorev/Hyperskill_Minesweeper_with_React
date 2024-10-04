@@ -1,0 +1,211 @@
+hyperskill_project:
+    id: 108
+    ide_files: https://cogniterra.org/media/attachments/lesson/24927/additional_files.json
+    is_template_based: false
+    use_ide: true
+update_date: "Fri, 04 Oct 2024 12:06:25 UTC"
+stages:
+    -   id: 586
+        step: 9741
+        is_completed: true
+    -   id: 587
+        step: 9742
+        is_completed: true
+    -   id: 588
+        step: 9743
+        is_completed: true
+    -   id: 589
+        step: 9744
+        is_completed: true
+    -   id: 590
+        step: 9745
+        is_completed: false
+topics:
+    0:
+        -   title: create-react-app
+            theory_id: 12196
+        -   title: Introduction to UI/UX
+            theory_id: 14603
+        -   title: Layout grids
+            theory_id: 14922
+        -   title: Interface elements
+            theory_id: 15253
+        -   title: Comments
+            theory_id: 8170
+        -   title: Operating systems
+            theory_id: 9704
+        -   title: Command line overview
+            theory_id: 8977
+        -   title: Parameters and options
+            theory_id: 9746
+        -   title: Block-level elements
+            theory_id: 7271
+        -   title: Inline elements
+            theory_id: 7518
+        -   title: DOM
+            theory_id: 8635
+        -   title: Introduction to React
+            theory_id: 10203
+        -   title: Introduction to JSX
+            theory_id: 15986
+        -   title: What is CSS
+            theory_id: 7678
+        -   title: HTML attributes id and class
+            theory_id: 7527
+        -   title: Intro to HTML forms
+            theory_id: 6560
+        -   title: Connecting CSS to HTML
+            theory_id: 7418
+        -   title: Basic syntax
+            theory_id: 7722
+        -   title: CSS Selectors
+            theory_id: 7738
+        -   title: Comments
+            theory_id: 7730
+        -   title: Installation
+            theory_id: 43945
+        -   title: Overview of the basic program
+            theory_id: 39013
+        -   title: Introduction to JavaScript
+            theory_id: 8016
+        -   title: Writing first program
+            theory_id: 8154
+        -   title: Multi-line programs
+            theory_id: 8162
+        -   title: Libraries
+            theory_id: 8504
+        -   title: Frameworks
+            theory_id: 6701
+        -   title: Tags and Attributes
+            theory_id: 7536
+        -   title: HTML page structure
+            theory_id: 6491
+        -   title: Files
+            theory_id: 13025
+        -   title: Comments
+            theory_id: 7502
+        -   title: What is npm
+            theory_id: 13256
+        -   title: WebStorm
+            theory_id: 36802
+        -   title: Google Fonts
+            theory_id: 7844
+    1:
+        -   title: Overview of the basic program
+            theory_id: 14577
+        -   title: Colors
+            theory_id: 14914
+        -   title: Functional components
+            theory_id: 16916
+        -   title: JSX rules
+            theory_id: 40028
+        -   title: Relative units
+            theory_id: 10671
+        -   title: Absolute units
+            theory_id: 10605
+        -   title: Images
+            theory_id: 9237
+        -   title: Properties
+            theory_id: 39006
+        -   title: Nested components
+            theory_id: 40347
+        -   title: Introduction to rendering components
+            theory_id: 38440
+        -   title: Declaring variables
+            theory_id: 8186
+        -   title: Strings and numbers
+            theory_id: 8194
+        -   title: Arithmetic operators
+            theory_id: 8372
+        -   title: Functions
+            theory_id: 8388
+        -   title: Defining functions
+            theory_id: 24012
+        -   title: Anonymous function
+            theory_id: 26924
+        -   title: Arrow Functions
+            theory_id: 8455
+        -   title: Array
+            theory_id: 16141
+        -   title: Array creation
+            theory_id: 16356
+        -   title: Boolean and Logical Operators
+            theory_id: 8471
+        -   title: Type Conversion
+            theory_id: 8380
+        -   title: Comparison Operators
+            theory_id: 8580
+        -   title: Conditional Operators
+            theory_id: 8889
+        -   title: Position
+            theory_id: 11581
+        -   title: Margin and Padding
+            theory_id: 26903
+        -   title: Positioning properties
+            theory_id: 8204
+        -   title: Width and Height
+            theory_id: 8325
+        -   title: Object methods and keyword "this"
+            theory_id: 8715
+        -   title: Multiple conditions. Switch...case statement
+            theory_id: 10689
+        -   title: Border
+            theory_id: 8355
+        -   title: RGB
+            theory_id: 8819
+        -   title: Scope of variables
+            theory_id: 9771
+        -   title: Increment and Decrement
+            theory_id: 9102
+        -   title: "Loops: for and for...in"
+            theory_id: 9119
+        -   title: "Loops: while and do...while"
+            theory_id: 9128
+        -   title: Break and continue statements
+            theory_id: 9374
+        -   title: Intro to Lists
+            theory_id: 8178
+        -   title: Introduction to String
+            theory_id: 17747
+        -   title: Colors in CSS
+            theory_id: 7973
+        -   title: z-index
+            theory_id: 11161
+        -   title: Template literals
+            theory_id: 8731
+    2:
+        -   title: Naming variables
+            theory_id: 8364
+        -   title: Box-Shadow
+            theory_id: 10680
+        -   title: State
+            theory_id: 40761
+        -   title: Complex state
+            theory_id: 42156
+        -   title: State vs Props
+            theory_id: 40689
+        -   title: Event listeners in React
+            theory_id: 40145
+        -   title: Conditional Rendering
+            theory_id: 38999
+        -   title: Styling components
+            theory_id: 38376
+        -   title: Builtin JS Functions
+            theory_id: 24019
+        -   title: setTimeout and setInterval
+            theory_id: 9680
+        -   title: Text shadow
+            theory_id: 10161
+    4:
+        -   title: Starting with git
+            theory_id: 10894
+        -   title: Class components
+            theory_id: 40339
+        -   title: Intro to hooks
+            theory_id: 42549
+        -   title: Component Lifecycle
+            theory_id: 42540
+        -   title: useRef
+            theory_id: 42184
+        -   title: useEffect
+            theory_id: 39232

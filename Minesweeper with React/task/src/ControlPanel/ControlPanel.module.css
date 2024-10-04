@@ -1,0 +1,37 @@
+.control-panel {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10px;
+}
+
+.flag-counter {
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 1px solid white;
+    background: #444;
+    color: #ddd;
+    font-family: monospace;
+    min-width: 30px;
+}
+
+.timer {
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 1px solid white;
+    background: #444;
+    color: #ddd;
+    font-family: monospace;
+}
+
+.reset-button {
+    padding: 5px 10px;
+    font-size: 1rem;
+    border-radius: 5px;
+    border: 1px solid white;
+    background: #ddd;
+    color: #444;
+    cursor: pointer;
+}

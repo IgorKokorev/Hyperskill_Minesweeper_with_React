@@ -1,0 +1,62 @@
+type: edu
+files:
+    -   name: src/App.css
+        visible: true
+        learner_created: false
+    -   name: src/App.js
+        visible: true
+        learner_created: false
+    -   name: src/index.css
+        visible: true
+        learner_created: false
+    -   name: src/index.js
+        visible: true
+        learner_created: false
+    -   name: test/test.js
+        visible: false
+        learner_created: false
+    -   name: src/Board.js
+        visible: true
+        learner_created: true
+    -   name: src/resource/fired.svg
+        visible: true
+        learner_created: true
+    -   name: src/ControlPanel/ControlPanel.js
+        visible: true
+        learner_created: true
+    -   name: src/Cell/Cell.js
+        visible: true
+        learner_created: true
+    -   name: src/HeaderLine.js
+        visible: true
+        learner_created: true
+    -   name: src/Field/Field.js
+        visible: true
+        learner_created: true
+    -   name: src/resource/bomb.svg
+        visible: true
+        learner_created: true
+    -   name: src/ControlPanel/ControlPanel.module.css
+        visible: true
+        learner_created: true
+    -   name: src/resource/logo.svg
+        visible: true
+        learner_created: true
+    -   name: src/Field/Field.module.css
+        visible: true
+        learner_created: true
+    -   name: src/resource/target.svg
+        visible: true
+        learner_created: true
+    -   name: src/Cell/Cell.module.css
+        visible: true
+        learner_created: true
+feedback_link: https://hyperskill.org/learn/step/9745#comment
+status: Failed
+feedback:
+    message: |-
+        Error: Wrong answer in test #4
+        
+        The flag counter should decrease if you flag the cells.
+    time: "Fri, 04 Oct 2024 14:08:34 UTC"
+record: -1

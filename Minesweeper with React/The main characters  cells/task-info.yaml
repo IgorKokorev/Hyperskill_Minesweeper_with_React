@@ -1,0 +1,54 @@
+type: edu
+custom_name: "The main characters: cells."
+files:
+    -   name: src/App.css
+        visible: true
+        learner_created: false
+    -   name: src/App.js
+        visible: true
+        learner_created: false
+    -   name: src/index.css
+        visible: true
+        learner_created: false
+    -   name: src/index.js
+        visible: true
+        learner_created: false
+    -   name: test/test.js
+        visible: false
+        learner_created: false
+    -   name: src/Field/Field.js
+        visible: true
+        learner_created: true
+    -   name: src/resource/bomb.svg
+        visible: true
+        learner_created: true
+    -   name: src/ControlPanel/ControlPanel.module.css
+        visible: true
+        learner_created: true
+    -   name: src/resource/logo.svg
+        visible: true
+        learner_created: true
+    -   name: src/Field/Field.module.css
+        visible: true
+        learner_created: true
+    -   name: src/ControlPanel/ControlPanel.js
+        visible: true
+        learner_created: true
+    -   name: src/Cell/Cell.js
+        visible: true
+        learner_created: true
+    -   name: src/Cell/Cell.module.css
+        visible: true
+        learner_created: true
+    -   name: src/resource/target.svg
+        visible: true
+        learner_created: true
+    -   name: src/resource/fired.svg
+        visible: true
+        learner_created: true
+feedback_link: https://hyperskill.org/learn/step/9743#comment
+status: Solved
+feedback:
+    message: Congratulations!
+    time: "Fri, 04 Oct 2024 07:44:14 UTC"
+record: 3

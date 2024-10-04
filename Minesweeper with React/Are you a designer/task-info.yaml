@@ -1,0 +1,48 @@
+type: edu
+custom_name: Are you a designer?
+files:
+    -   name: src/App.css
+        visible: true
+        learner_created: false
+    -   name: src/App.js
+        visible: true
+        learner_created: false
+    -   name: src/index.css
+        visible: true
+        learner_created: false
+    -   name: src/index.js
+        visible: true
+        learner_created: false
+    -   name: src/resource/logo.svg
+        visible: true
+        learner_created: false
+    -   name: test/test.js
+        visible: false
+        learner_created: false
+    -   name: src/resource/bomb.svg
+        visible: true
+        learner_created: true
+    -   name: src/ControlPanel/ControlPanel.js
+        visible: true
+        learner_created: true
+    -   name: src/Cell/Cell.js
+        visible: true
+        learner_created: true
+    -   name: src/Cell/Cell.module.css
+        visible: true
+        learner_created: true
+    -   name: src/Field/Field.js
+        visible: true
+        learner_created: true
+    -   name: src/Field/Field.module.css
+        visible: true
+        learner_created: true
+    -   name: src/ControlPanel/ControlPanel.module.css
+        visible: true
+        learner_created: true
+feedback_link: https://hyperskill.org/learn/step/9742#comment
+status: Solved
+feedback:
+    message: Congratulations!
+    time: "Tue, 01 Oct 2024 09:43:17 UTC"
+record: 2
